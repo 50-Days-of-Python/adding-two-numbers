@@ -1,6 +1,6 @@
-'''Adding 2 numbers'''
+'''Finding the largest of 2 numbers'''
 
-def sum_0f_num(a,b):
+def highest_of(a,b):
   ans = 0
   #Write your code here.
   
