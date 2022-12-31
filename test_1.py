@@ -10,6 +10,6 @@ class Test_1(unittest.TestCase):
   def test_02(self):
     self.assertEqual(main.sum_0f_num(6,94), 100)
     
-    if __name__ == '__main__':
-      unittest.main(verbosity=2)
+if __name__ == '__main__':
+  unittest.main(verbosity=2)
     
